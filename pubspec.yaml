@@ -63,6 +63,13 @@ flutter:
   assets:
     - assets/images/fuel_branco.png
     - assets/images/fuel_preto.png
+    - assets/images/etanolTemaClaro.png
+    - assets/images/etanolTemaEscuro.png
+    - assets/images/gasolinaTemaEscuro.png
+    - assets/images/gasolinaTemaClaro.png
+    - assets/images/telaInicialTemaClaro.png
+    - assets/images/telaInicialTemaEscuro.png
+
 
   #   - images/a_dot_ham.jpeg
 
